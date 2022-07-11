@@ -7,4 +7,5 @@ fullName: OnMessage
 remarks: ''
 isPreview: false
 isDeprecated: false
-syntax: 'type OnMessage = (eventData: EventData) => void'
+syntax: |
+  type OnMessage = (eventData: EventData) => void
