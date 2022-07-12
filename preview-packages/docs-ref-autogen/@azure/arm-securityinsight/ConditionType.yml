@@ -10,9 +10,14 @@ summary: >-
    this enum contains the known values that the service supports.
   ### Known values supported by the service
 
-  **Property**: Evaluate an object property value
+  **Property**: Evaluate an object property value \
+
+  **PropertyChanged**: Evaluate an object property changed value \
+
+  **PropertyArrayChanged**: Evaluate an object array property changed value
 fullName: ConditionType
 remarks: ''
 isPreview: false
 isDeprecated: false
-syntax: type ConditionType = string
+syntax: |
+  type ConditionType = string

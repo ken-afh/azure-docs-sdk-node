@@ -7,6 +7,9 @@ fullName: AutomationRuleConditionUnion
 remarks: ''
 isPreview: false
 isDeprecated: false
-syntax: >-
-  type AutomationRuleConditionUnion = AutomationRuleCondition |
-  PropertyConditionProperties
+syntax: |
+  type AutomationRuleConditionUnion =
+    | AutomationRuleCondition
+    | PropertyArrayChangedConditionProperties
+    | PropertyChangedConditionProperties
+    | PropertyConditionProperties

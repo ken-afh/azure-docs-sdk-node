@@ -3,9 +3,8 @@ name: KnownVersion
 uid: '@azure/arm-securityinsight.KnownVersion'
 package: '@azure/arm-securityinsight'
 summary: >-
-  Known values of
-  <xref:@azure/arm-securityinsight.KnownAutomationRulePropertyConditionSupportedProperty.HostOSVersion>
-  that the service accepts.
+  Known values of <xref:@azure/arm-securityinsight.Version> that the service
+  accepts.
 fullName: KnownVersion
 remarks: ''
 isPreview: false
@@ -14,8 +13,8 @@ fields:
   - name: V1
     uid: '@azure/arm-securityinsight.KnownVersion.V1'
     package: '@azure/arm-securityinsight'
-    summary: ''
+    summary: V1
   - name: V2
     uid: '@azure/arm-securityinsight.KnownVersion.V2'
     package: '@azure/arm-securityinsight'
-    summary: ''
+    summary: V2

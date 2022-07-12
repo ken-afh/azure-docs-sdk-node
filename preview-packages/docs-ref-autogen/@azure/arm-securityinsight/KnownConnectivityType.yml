@@ -3,8 +3,8 @@ name: KnownConnectivityType
 uid: '@azure/arm-securityinsight.KnownConnectivityType'
 package: '@azure/arm-securityinsight'
 summary: >-
-  Known values of <xref:@azure/arm-securityinsight.KnownConnectivityType> that
-  the service accepts.
+  Known values of <xref:@azure/arm-securityinsight.ConnectivityType> that the
+  service accepts.
 fullName: KnownConnectivityType
 remarks: ''
 isPreview: false
@@ -13,4 +13,4 @@ fields:
   - name: IsConnectedQuery
     uid: '@azure/arm-securityinsight.KnownConnectivityType.IsConnectedQuery'
     package: '@azure/arm-securityinsight'
-    summary: ''
+    summary: IsConnectedQuery

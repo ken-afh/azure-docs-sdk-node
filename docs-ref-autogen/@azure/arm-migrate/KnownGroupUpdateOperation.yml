@@ -3,7 +3,7 @@ name: KnownGroupUpdateOperation
 uid: '@azure/arm-migrate.KnownGroupUpdateOperation'
 package: '@azure/arm-migrate'
 summary: >-
-  Known values of <xref:@azure/arm-migrate.KnownGroupUpdateOperation> that the
+  Known values of <xref:@azure/arm-migrate.GroupUpdateOperation> that the
   service accepts.
 fullName: KnownGroupUpdateOperation
 remarks: ''
@@ -13,8 +13,8 @@ fields:
   - name: Add
     uid: '@azure/arm-migrate.KnownGroupUpdateOperation.Add'
     package: '@azure/arm-migrate'
-    summary: ''
+    summary: Add
   - name: Remove
     uid: '@azure/arm-migrate.KnownGroupUpdateOperation.Remove'
     package: '@azure/arm-migrate'
-    summary: ''
+    summary: Remove

@@ -3,7 +3,7 @@ name: KnownEncryptionState
 uid: '@azure/arm-avs.KnownEncryptionState'
 package: '@azure/arm-avs'
 summary: >-
-  Known values of <xref:@azure/arm-avs.KnownEncryptionState> that the service
+  Known values of <xref:@azure/arm-avs.EncryptionState> that the service
   accepts.
 fullName: KnownEncryptionState
 remarks: ''
@@ -13,8 +13,8 @@ fields:
   - name: Disabled
     uid: '@azure/arm-avs.KnownEncryptionState.Disabled'
     package: '@azure/arm-avs'
-    summary: ''
+    summary: Disabled
   - name: Enabled
     uid: '@azure/arm-avs.KnownEncryptionState.Enabled'
     package: '@azure/arm-avs'
-    summary: ''
+    summary: Enabled

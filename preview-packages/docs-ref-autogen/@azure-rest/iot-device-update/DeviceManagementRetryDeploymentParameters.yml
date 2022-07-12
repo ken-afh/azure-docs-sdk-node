@@ -7,6 +7,5 @@ fullName: DeviceManagementRetryDeploymentParameters
 remarks: ''
 isPreview: false
 isDeprecated: false
-syntax: >-
-  type DeviceManagementRetryDeploymentParameters =
-  DeviceManagementRetryDeploymentQueryParam & RequestParameters
+syntax: |
+  type DeviceManagementRetryDeploymentParameters = RequestParameters

@@ -3,8 +3,8 @@ name: KnownCapabilityParameter
 uid: '@azure/arm-orbital.KnownCapabilityParameter'
 package: '@azure/arm-orbital'
 summary: >-
-  Known values of <xref:@azure/arm-orbital.KnownCapabilityParameter> that the
-  service accepts.
+  Known values of <xref:@azure/arm-orbital.CapabilityParameter> that the service
+  accepts.
 fullName: KnownCapabilityParameter
 remarks: ''
 isPreview: false
@@ -13,8 +13,8 @@ fields:
   - name: Communication
     uid: '@azure/arm-orbital.KnownCapabilityParameter.Communication'
     package: '@azure/arm-orbital'
-    summary: ''
+    summary: Communication
   - name: EarthObservation
     uid: '@azure/arm-orbital.KnownCapabilityParameter.EarthObservation'
     package: '@azure/arm-orbital'
-    summary: ''
+    summary: EarthObservation

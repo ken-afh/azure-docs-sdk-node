@@ -5,7 +5,7 @@ uid: >-
 package: '@azure/arm-securityinsight'
 summary: >-
   Known values of
-  <xref:@azure/arm-securityinsight.KnownAutomationRulePropertyConditionSupportedProperty>
+  <xref:@azure/arm-securityinsight.AutomationRulePropertyConditionSupportedProperty>
   that the service accepts.
 fullName: KnownAutomationRulePropertyConditionSupportedProperty
 remarks: ''
@@ -52,6 +52,11 @@ fields:
       @azure/arm-securityinsight.KnownAutomationRulePropertyConditionSupportedProperty.AccountUPNSuffix
     package: '@azure/arm-securityinsight'
     summary: The account user principal name suffix
+  - name: AlertAnalyticRuleIds
+    uid: >-
+      @azure/arm-securityinsight.KnownAutomationRulePropertyConditionSupportedProperty.AlertAnalyticRuleIds
+    package: '@azure/arm-securityinsight'
+    summary: The analytic rule ids of the alert
   - name: AlertProductNames
     uid: >-
       @azure/arm-securityinsight.KnownAutomationRulePropertyConditionSupportedProperty.AlertProductNames

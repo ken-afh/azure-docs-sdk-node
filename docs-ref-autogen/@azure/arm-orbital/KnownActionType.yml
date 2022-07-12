@@ -2,9 +2,7 @@
 name: KnownActionType
 uid: '@azure/arm-orbital.KnownActionType'
 package: '@azure/arm-orbital'
-summary: >-
-  Known values of <xref:@azure/arm-orbital.KnownActionType> that the service
-  accepts.
+summary: 'Known values of <xref:@azure/arm-orbital.ActionType> that the service accepts.'
 fullName: KnownActionType
 remarks: ''
 isPreview: false
@@ -13,4 +11,4 @@ fields:
   - name: Internal
     uid: '@azure/arm-orbital.KnownActionType.Internal'
     package: '@azure/arm-orbital'
-    summary: ''
+    summary: Internal

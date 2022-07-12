@@ -3,8 +3,8 @@ name: KnownEntityType
 uid: '@azure/arm-securityinsight.KnownEntityType'
 package: '@azure/arm-securityinsight'
 summary: >-
-  Known values of <xref:@azure/arm-securityinsight.KnownEntityType> that the
-  service accepts.
+  Known values of <xref:@azure/arm-securityinsight.EntityType> that the service
+  accepts.
 fullName: KnownEntityType
 remarks: ''
 isPreview: false
@@ -66,6 +66,10 @@ fields:
     uid: '@azure/arm-securityinsight.KnownEntityType.Malware'
     package: '@azure/arm-securityinsight'
     summary: Entity represents malware in the system.
+  - name: Nic
+    uid: '@azure/arm-securityinsight.KnownEntityType.Nic'
+    package: '@azure/arm-securityinsight'
+    summary: Entity represents network interface in the system.
   - name: Process
     uid: '@azure/arm-securityinsight.KnownEntityType.Process'
     package: '@azure/arm-securityinsight'

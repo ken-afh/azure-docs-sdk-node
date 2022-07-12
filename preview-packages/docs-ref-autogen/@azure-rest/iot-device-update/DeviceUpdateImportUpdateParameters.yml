@@ -7,7 +7,8 @@ fullName: DeviceUpdateImportUpdateParameters
 remarks: ''
 isPreview: false
 isDeprecated: false
-syntax: >-
-  type DeviceUpdateImportUpdateParameters = DeviceUpdateImportUpdateQueryParam &
-  DeviceUpdateImportUpdateMediaTypesParam & DeviceUpdateImportUpdateBodyParam &
-  RequestParameters
+syntax: |
+  type DeviceUpdateImportUpdateParameters =
+    DeviceUpdateImportUpdateMediaTypesParam &
+      DeviceUpdateImportUpdateBodyParam &
+      RequestParameters

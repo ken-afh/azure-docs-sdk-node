@@ -50,9 +50,12 @@ summary: >-
 
   **Mailbox**: Entity represents mailbox in the system. \
 
-  **SubmissionMail**: Entity represents submission mail in the system.
+  **SubmissionMail**: Entity represents submission mail in the system. \
+
+  **Nic**: Entity represents network interface in the system.
 fullName: EntityType
 remarks: ''
 isPreview: false
 isDeprecated: false
-syntax: type EntityType = string
+syntax: |
+  type EntityType = string

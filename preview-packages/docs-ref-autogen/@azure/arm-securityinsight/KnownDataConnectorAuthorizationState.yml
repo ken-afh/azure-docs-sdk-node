@@ -4,8 +4,8 @@ uid: '@azure/arm-securityinsight.KnownDataConnectorAuthorizationState'
 package: '@azure/arm-securityinsight'
 summary: >-
   Known values of
-  <xref:@azure/arm-securityinsight.KnownDataConnectorAuthorizationState> that
-  the service accepts.
+  <xref:@azure/arm-securityinsight.DataConnectorAuthorizationState> that the
+  service accepts.
 fullName: KnownDataConnectorAuthorizationState
 remarks: ''
 isPreview: false
@@ -14,8 +14,8 @@ fields:
   - name: Invalid
     uid: '@azure/arm-securityinsight.KnownDataConnectorAuthorizationState.Invalid'
     package: '@azure/arm-securityinsight'
-    summary: ''
+    summary: Invalid
   - name: Valid
     uid: '@azure/arm-securityinsight.KnownDataConnectorAuthorizationState.Valid'
     package: '@azure/arm-securityinsight'
-    summary: ''
+    summary: Valid

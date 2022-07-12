@@ -3,8 +3,8 @@ name: KnownCreatedByType
 uid: '@azure/arm-confidentialledger.KnownCreatedByType'
 package: '@azure/arm-confidentialledger'
 summary: >-
-  Known values of <xref:@azure/arm-confidentialledger.KnownCreatedByType> that
-  the service accepts.
+  Known values of <xref:@azure/arm-confidentialledger.CreatedByType> that the
+  service accepts.
 fullName: KnownCreatedByType
 remarks: ''
 isPreview: false
@@ -13,16 +13,16 @@ fields:
   - name: Application
     uid: '@azure/arm-confidentialledger.KnownCreatedByType.Application'
     package: '@azure/arm-confidentialledger'
-    summary: ''
+    summary: Application
   - name: Key
     uid: '@azure/arm-confidentialledger.KnownCreatedByType.Key'
     package: '@azure/arm-confidentialledger'
-    summary: ''
+    summary: Key
   - name: ManagedIdentity
     uid: '@azure/arm-confidentialledger.KnownCreatedByType.ManagedIdentity'
     package: '@azure/arm-confidentialledger'
-    summary: ''
+    summary: ManagedIdentity
   - name: User
     uid: '@azure/arm-confidentialledger.KnownCreatedByType.User'
     package: '@azure/arm-confidentialledger'
-    summary: ''
+    summary: User
