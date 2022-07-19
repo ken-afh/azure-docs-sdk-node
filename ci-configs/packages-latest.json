@@ -12,7 +12,7 @@
       "name": "@azure/search-documents@11.2.1"
     },
     {
-      "name": "@azure/communication-chat@1.2.0"
+      "name": "@azure/communication-chat@1.2.1"
     },
     {
       "name": "@azure/communication-common@2.0.0"
@@ -52,13 +52,13 @@
       "folder": "./types/latest"
     },
     {
-      "name": "@azure/cosmos@3.16.2"
+      "name": "@azure/cosmos@3.16.3"
     },
     {
       "name": "@azure/digital-twins-core@1.0.3"
     },
     {
-      "name": "@azure/eventgrid@4.9.0"
+      "name": "@azure/eventgrid@4.10.0"
     },
     {
       "name": "@azure/event-hubs@5.8.0"
@@ -154,7 +154,7 @@
       "name": "@azure/arm-consumption@"
     },
     {
-      "name": "@azure/arm-containerinstance@8.1.0"
+      "name": "@azure/arm-containerinstance@8.2.0"
     },
     {
       "name": "@azure/arm-containerregistry@10.0.0"
@@ -310,7 +310,7 @@
       "name": "@azure/arm-reservations@7.1.0"
     },
     {
-      "name": "@azure/arm-resourcehealth@3.0.1"
+      "name": "@azure/arm-resourcehealth@3.1.0"
     },
     {
       "name": "@azure/arm-search@3.0.1"
@@ -484,7 +484,7 @@
       "name": "@azure/arm-synapse@8.0.0"
     },
     {
-      "name": "@azure/arm-storagecache@5.1.0"
+      "name": "@azure/arm-storagecache@5.2.0"
     },
     {
       "name": "azure-iot-common"
@@ -578,7 +578,7 @@
       "name": "@azure/attestation@1.0.0"
     },
     {
-      "name": "@azure/communication-chat@1.2.0"
+      "name": "@azure/communication-chat@1.2.1"
     },
     {
       "name": "@azure/monitor-query@1.0.2"
@@ -795,6 +795,15 @@
     },
     {
       "name": "@azure/arm-appcontainers@1.0.0"
+    },
+    {
+      "name": "@azure/arm-machinelearning@1.0.0"
+    },
+    {
+      "name": "@azure/arm-networkfunction@1.0.0"
+    },
+    {
+      "name": "@azure-rest/confidential-ledger@1.0.0"
     }
   ],
   "source_repos": []

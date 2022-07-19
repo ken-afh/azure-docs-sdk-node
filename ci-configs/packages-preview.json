@@ -267,7 +267,7 @@
       "name": "@azure/arm-servicefabric@2.0.0-beta.1"
     },
     {
-      "name": "@azure-tools/communication-short-codes@1.0.0-beta.2"
+      "name": "@azure-tools/communication-short-codes@1.0.0-beta.3"
     },
     {
       "name": "@azure/storage-queue@12.8.0-beta.1"
@@ -318,7 +318,7 @@
       "name": "@azure/arm-analysisservices@4.0.0-beta.1"
     },
     {
-      "name": "@azure/arm-portal@1.0.0-beta.3"
+      "name": "@azure/arm-portal@1.0.0-beta.4"
     },
     {
       "name": "@azure/arm-sqlvirtualmachine@5.0.0-beta.5"
@@ -444,7 +444,7 @@
       "name": "@azure/arm-maps@3.1.0-beta.1"
     },
     {
-      "name": "@azure/arm-scvmm@1.0.0-beta.1"
+      "name": "@azure/arm-scvmm@1.0.0-beta.2"
     },
     {
       "name": "@azure/arm-timeseriesinsights@2.1.0-beta.1"
@@ -459,7 +459,7 @@
       "name": "@azure/communication-email@1.0.0-beta.1"
     },
     {
-      "name": "@azure/arm-dynatrace@1.0.0-beta.1"
+      "name": "@azure/arm-dynatrace@1.0.0-beta.2"
     },
     {
       "name": "@azure/arm-education@1.0.0-beta.2"
@@ -468,7 +468,7 @@
       "name": "@azure/arm-machinelearning@1.0.0-beta.1"
     },
     {
-      "name": "@azure/arm-deviceupdate@1.0.0-beta.1"
+      "name": "@azure/arm-deviceupdate@1.0.0-beta.2"
     },
     {
       "name": "@azure/arm-communication@4.0.0-beta.1"
@@ -480,10 +480,19 @@
       "name": "@azure/arm-monitor@8.0.0-beta.1"
     },
     {
-      "name": "@azure/arm-workloads@1.0.0-beta.1"
+      "name": "@azure/arm-workloads@1.0.0-beta.2"
     },
     {
       "name": "@azure/arm-resourceconnector@1.0.0-beta.1"
+    },
+    {
+      "name": "@azure-rest/arm-servicefabric@1.0.0-beta.1"
+    },
+    {
+      "name": "@azure-rest/arm-containerservice@1.0.0-beta.1"
+    },
+    {
+      "name": "@azure/monitor-ingestion@1.0.0-beta.1"
     }
   ],
   "source_repos": []
