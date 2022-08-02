@@ -1,12 +1,12 @@
 ---
 ms.service: tables
-ms.data: 07/25/2022
-ms.topic: reference
+ms.data: 08/01/2022
 ms.devlang: javascript
-ms.author: joheredi
 author: joheredi
-title: Azure Tables SDK for JavaScript
 description: Reference for Azure Tables SDK for JavaScript
+title: Azure Tables SDK for JavaScript
+ms.topic: reference
+ms.author: joheredi
 ---
 # Azure Tables SDK for JavaScript - latest
 

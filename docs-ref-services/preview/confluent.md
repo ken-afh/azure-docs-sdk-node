@@ -1,12 +1,12 @@
 ---
 ms.service: confluent
-ms.data: 07/25/2022
-ms.topic: reference
+ms.data: 08/01/2022
 ms.devlang: javascript
-ms.author: jeffish
 author: xirzec
-title: Azure Confluent SDK for JavaScript
 description: Reference for Azure Confluent SDK for JavaScript
+title: Azure Confluent SDK for JavaScript
+ms.topic: reference
+ms.author: jeffish
 ---
 # Azure Confluent SDK for JavaScript - preview
 
