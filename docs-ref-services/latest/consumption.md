@@ -1,12 +1,12 @@
 ---
-ms.service: consumption
-ms.devlang: javascript
-title: Azure Consumption SDK for JavaScript
+ms.data: 08/08/2022
 ms.topic: reference
-ms.data: 08/05/2022
-author: xirzec
 description: Reference for Azure Consumption SDK for JavaScript
 ms.author: jeffish
+title: Azure Consumption SDK for JavaScript
+ms.service: consumption
+author: xirzec
+ms.devlang: javascript
 ---
 # Azure Consumption SDK for JavaScript - latest
 
