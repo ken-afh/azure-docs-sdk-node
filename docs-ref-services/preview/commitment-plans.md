@@ -1,11 +1,11 @@
 ---
 description: Reference for Azure Commitment Plans SDK for JavaScript
+ms.data: 08/10/2022
+ms.author: jeffish
 ms.devlang: javascript
 ms.service: commitmentplans
-ms.data: 08/09/2022
-title: Azure Commitment Plans SDK for JavaScript
 ms.topic: reference
-ms.author: jeffish
+title: Azure Commitment Plans SDK for JavaScript
 author: xirzec
 ---
 # Azure Commitment Plans SDK for JavaScript - preview
