@@ -1,12 +1,12 @@
 ---
-description: Reference for Azure Batch AI SDK for JavaScript
-ms.service: batchai
 title: Azure Batch AI SDK for JavaScript
-ms.topic: reference
+description: Reference for Azure Batch AI SDK for JavaScript
+ms.data: 08/11/2022
 ms.devlang: javascript
-ms.data: 08/10/2022
 author: dpwatrous
 ms.author: dawatrou
+ms.topic: reference
+ms.service: batchai
 ms.date: 06/15/2022
 ---
 # Batch AI Modules for JavaScript
