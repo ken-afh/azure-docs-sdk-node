@@ -1,12 +1,12 @@
 ---
-ms.author: jeffish
-ms.service: mysql
-ms.data: 08/11/2022
-description: Reference for Azure MySQL SDK for JavaScript
-title: Azure MySQL SDK for JavaScript
-author: xirzec
-ms.devlang: javascript
 ms.topic: reference
+author: xirzec
+title: Azure MySQL SDK for JavaScript
+ms.data: 08/12/2022
+ms.service: mysql
+ms.devlang: javascript
+description: Reference for Azure MySQL SDK for JavaScript
+ms.author: jeffish
 ---
 # Azure MySQL SDK for JavaScript - preview
 

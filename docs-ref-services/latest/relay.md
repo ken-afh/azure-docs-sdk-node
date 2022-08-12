@@ -1,12 +1,12 @@
 ---
-ms.author: jeffish
-ms.service: relay
-ms.data: 08/11/2022
-description: Reference for Azure Relay SDK for JavaScript
-title: Azure Relay SDK for JavaScript
-author: xirzec
-ms.devlang: javascript
 ms.topic: reference
+author: xirzec
+title: Azure Relay SDK for JavaScript
+ms.data: 08/12/2022
+ms.service: relay
+ms.devlang: javascript
+description: Reference for Azure Relay SDK for JavaScript
+ms.author: jeffish
 ms.date: 06/15/2022
 ---
 # Azure Relay modules for JavaScript
