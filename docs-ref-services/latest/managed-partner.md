@@ -1,12 +1,12 @@
 ---
-ms.service: managedpartner
-author: xirzec
+ms.data: 08/15/2022
 title: Azure Managed Partner SDK for JavaScript
-ms.data: 08/12/2022
-ms.topic: reference
-ms.devlang: javascript
 ms.author: jeffish
 description: Reference for Azure Managed Partner SDK for JavaScript
+ms.service: managedpartner
+ms.topic: reference
+ms.devlang: javascript
+author: xirzec
 ---
 # Azure Managed Partner SDK for JavaScript - latest
 
