@@ -1,7 +1,7 @@
 {
   "Name": "@azure/ai-form-recognizer",
-  "Version": "4.0.0-beta.6",
-  "DevVersion": null,
+  "Version": "4.0.0-alpha.20220809.4",
+  "DevVersion": "4.0.0-alpha.20220815.1",
   "DirectoryPath": "sdk/formrecognizer/ai-form-recognizer",
   "ServiceDirectory": "formrecognizer",
   "ReadMePath": "sdk/formrecognizer/ai-form-recognizer/README.md",
