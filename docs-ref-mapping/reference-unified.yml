@@ -262,6 +262,14 @@
         href: ~/docs-ref-services/{moniker}/arm-changes-readme.md
         children:
         - '@azure/arm-changes'
+  - name: Cognitive Service For Language
+    href: ~/docs-ref-services/{moniker}/cognitive-service-for-language.md
+    landingPageType: Service
+    items:
+    - name: Language Text
+      href: ~/docs-ref-services/{moniker}/ai-language-text-readme.md
+      children:
+      - '@azure/ai-language-text'
   - name: Cognitive Services
     href: ~/docs-ref-services/{moniker}/cognitive-services.md
     landingPageType: Service
@@ -722,7 +730,7 @@
         href: ~/docs-ref-services/{moniker}/arm-digitaltwins-readme.md
         children:
         - '@azure/arm-digitaltwins'
-  - name: Dns
+  - name: DNS
     href: ~/docs-ref-services/{moniker}/dns.md
     landingPageType: Service
     items:
@@ -1508,7 +1516,7 @@
         href: ~/docs-ref-services/{moniker}/arm-portal-readme.md
         children:
         - '@azure/arm-portal'
-  - name: Postgresql
+  - name: PostgreSQL
     href: ~/docs-ref-services/{moniker}/postgresql.md
     landingPageType: Service
     items:
@@ -1704,6 +1712,14 @@
         href: ~/docs-ref-services/{moniker}/arm-resources-profile-2020-09-01-hybrid-readme.md
         children:
         - '@azure/arm-resources-profile-2020-09-01-hybrid'
+  - name: Rooms
+    href: ~/docs-ref-services/{moniker}/rooms.md
+    landingPageType: Service
+    items:
+    - name: Communication Rooms
+      href: ~/docs-ref-services/{moniker}/communication-rooms-readme.md
+      children:
+      - '@azure/communication-rooms'
   - name: Schema Registry
     href: ~/docs-ref-services/{moniker}/schema-registry.md
     landingPageType: Service
