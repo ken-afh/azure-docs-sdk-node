@@ -1,12 +1,12 @@
 ---
-ms.service: webservices
-author: xirzec
-title: Azure Web Services SDK for JavaScript
 ms.author: jeffish
 description: Reference for Azure Web Services SDK for JavaScript
-ms.data: 08/15/2022
+ms.service: webservices
 ms.topic: reference
 ms.devlang: javascript
+author: xirzec
+title: Azure Web Services SDK for JavaScript
+ms.data: 08/16/2022
 ---
 # Azure Web Services SDK for JavaScript - latest
 
