@@ -121,7 +121,7 @@
       "name": "@azure/arm-authorization@8.4.1"
     },
     {
-      "name": "@azure/arm-automation"
+      "name": "@azure/arm-automation@"
     },
     {
       "name": "@azure/arm-azurestack@"
@@ -813,6 +813,9 @@
     },
     {
       "name": "@azure/arm-automanage@1.0.0"
+    },
+    {
+      "name": "@azure/arm-dashboard@1.0.0"
     }
   ],
   "source_repos": []
