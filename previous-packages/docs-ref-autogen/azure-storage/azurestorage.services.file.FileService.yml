@@ -47,6 +47,9 @@ properties:
       return:
         description: ''
         type: number
+    inheritanceDescription: >-
+      <b>Inherited From</b>
+      [StorageServiceClient.defaultClientRequestTimeoutInMs](xref:StorageServiceClient.defaultClientRequestTimeoutInMs)
   - name: defaultEnableReuseSocket
     uid: >-
       azure-storage.azurestorage.services.file.FileService.defaultEnableReuseSocket
@@ -75,6 +78,9 @@ properties:
           <xref
           uid="azure-storage.azurestorage.common.util.storageutilities.LocationMode"
           />
+    inheritanceDescription: >-
+      <b>Inherited From</b>
+      [StorageServiceClient.defaultLocationMode](xref:StorageServiceClient.defaultLocationMode)
   - name: defaultMaximumExecutionTimeInMs
     uid: >-
       azure-storage.azurestorage.services.file.FileService.defaultMaximumExecutionTimeInMs
@@ -90,6 +96,9 @@ properties:
       return:
         description: ''
         type: number
+    inheritanceDescription: >-
+      <b>Inherited From</b>
+      [StorageServiceClient.defaultMaximumExecutionTimeInMs](xref:StorageServiceClient.defaultMaximumExecutionTimeInMs)
   - name: defaultTimeoutIntervalInMs
     uid: >-
       azure-storage.azurestorage.services.file.FileService.defaultTimeoutIntervalInMs
@@ -105,6 +114,9 @@ properties:
       return:
         description: ''
         type: number
+    inheritanceDescription: >-
+      <b>Inherited From</b>
+      [StorageServiceClient.defaultTimeoutIntervalInMs](xref:StorageServiceClient.defaultTimeoutIntervalInMs)
   - name: enableGlobalHttpAgent
     uid: azure-storage.azurestorage.services.file.FileService.enableGlobalHttpAgent
     package: azure-storage
@@ -121,6 +133,9 @@ properties:
       return:
         description: ''
         type: boolean
+    inheritanceDescription: >-
+      <b>Inherited From</b>
+      [StorageServiceClient.enableGlobalHttpAgent](xref:StorageServiceClient.enableGlobalHttpAgent)
   - name: host
     uid: azure-storage.azurestorage.services.file.FileService.host
     package: azure-storage
@@ -133,6 +148,9 @@ properties:
       return:
         description: ''
         type: <xref uid="azure-storage.azurestorage.StorageHost" />
+    inheritanceDescription: >-
+      <b>Inherited From</b>
+      [StorageServiceClient.host](xref:StorageServiceClient.host)
   - name: logger
     uid: azure-storage.azurestorage.services.file.FileService.logger
     package: azure-storage
@@ -147,6 +165,9 @@ properties:
         type: >-
           <xref
           uid="azure-storage.azurestorage.common.diagnostics.logger.Logger" />
+    inheritanceDescription: >-
+      <b>Inherited From</b>
+      [StorageServiceClient.logger](xref:StorageServiceClient.logger)
   - name: parallelOperationThreadCount
     uid: >-
       azure-storage.azurestorage.services.file.FileService.parallelOperationThreadCount
@@ -175,6 +196,9 @@ properties:
           <xref
           uid="azure-storage.azurestorage.common.services.storageserviceclient.Proxy"
           />
+    inheritanceDescription: >-
+      <b>Inherited From</b>
+      [StorageServiceClient.proxy](xref:StorageServiceClient.proxy)
   - name: singleFileThresholdInBytes
     uid: >-
       azure-storage.azurestorage.services.file.FileService.singleFileThresholdInBytes
@@ -204,3 +228,6 @@ properties:
       return:
         description: ''
         type: boolean
+    inheritanceDescription: >-
+      <b>Inherited From</b>
+      [StorageServiceClient.useNagleAlgorithm](xref:StorageServiceClient.useNagleAlgorithm)

@@ -24,6 +24,9 @@ properties:
       return:
         description: ''
         type: string
+    inheritanceDescription: >-
+      <b>Inherited From</b>
+      [ConnectionConfig.connectionString](xref:@azure/amqp-common.ConnectionConfig.connectionString)
   - name: endpoint
     uid: '@azure/amqp-common.EventHubConnectionConfig.endpoint'
     package: '@azure/amqp-common'
@@ -38,6 +41,9 @@ properties:
       return:
         description: ''
         type: string
+    inheritanceDescription: >-
+      <b>Inherited From</b>
+      [ConnectionConfig.endpoint](xref:@azure/amqp-common.ConnectionConfig.endpoint)
   - name: entityPath
     uid: '@azure/amqp-common.EventHubConnectionConfig.entityPath'
     package: '@azure/amqp-common'
@@ -66,6 +72,9 @@ properties:
       return:
         description: ''
         type: string
+    inheritanceDescription: >-
+      <b>Inherited From</b>
+      [ConnectionConfig.host](xref:@azure/amqp-common.ConnectionConfig.host)
   - name: sharedAccessKey
     uid: '@azure/amqp-common.EventHubConnectionConfig.sharedAccessKey'
     package: '@azure/amqp-common'
@@ -78,6 +87,9 @@ properties:
       return:
         description: ''
         type: string
+    inheritanceDescription: >-
+      <b>Inherited From</b>
+      [ConnectionConfig.sharedAccessKey](xref:@azure/amqp-common.ConnectionConfig.sharedAccessKey)
   - name: sharedAccessKeyName
     uid: '@azure/amqp-common.EventHubConnectionConfig.sharedAccessKeyName'
     package: '@azure/amqp-common'
@@ -90,6 +102,9 @@ properties:
       return:
         description: ''
         type: string
+    inheritanceDescription: >-
+      <b>Inherited From</b>
+      [ConnectionConfig.sharedAccessKeyName](xref:@azure/amqp-common.ConnectionConfig.sharedAccessKeyName)
   - name: webSocket
     uid: '@azure/amqp-common.EventHubConnectionConfig.webSocket'
     package: '@azure/amqp-common'
@@ -109,6 +124,9 @@ properties:
       return:
         description: ''
         type: WebSocketImpl
+    inheritanceDescription: >-
+      <b>Inherited From</b>
+      [ConnectionConfig.webSocket](xref:@azure/amqp-common.ConnectionConfig.webSocket)
   - name: webSocketConstructorOptions
     uid: '@azure/amqp-common.EventHubConnectionConfig.webSocketConstructorOptions'
     package: '@azure/amqp-common'
@@ -123,6 +141,9 @@ properties:
       return:
         description: ''
         type: any
+    inheritanceDescription: >-
+      <b>Inherited From</b>
+      [ConnectionConfig.webSocketConstructorOptions](xref:@azure/amqp-common.ConnectionConfig.webSocketConstructorOptions)
   - name: webSocketEndpointPath
     uid: '@azure/amqp-common.EventHubConnectionConfig.webSocketEndpointPath'
     package: '@azure/amqp-common'
@@ -139,6 +160,9 @@ properties:
       return:
         description: ''
         type: undefined | string
+    inheritanceDescription: >-
+      <b>Inherited From</b>
+      [ConnectionConfig.webSocketEndpointPath](xref:@azure/amqp-common.ConnectionConfig.webSocketEndpointPath)
 functions:
   - name: createFromConnectionConfig(ConnectionConfig)
     uid: '@azure/amqp-common.EventHubConnectionConfig.createFromConnectionConfig'
